@@ -147,7 +147,7 @@ footer p{
     grid-template-columns: 1fr 1fr 1fr;
     grid-template-rows: 20% min-content auto;
     font-family: Inter,serif;
-    font-size: 20px;
+    font-size: 15px;
     border-radius: 10px;
     padding: 10px;
     background-image: url(./lukas-blazek-mcSDtbWXUZU-unsplash.jpg);
