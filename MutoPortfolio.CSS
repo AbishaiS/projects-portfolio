@@ -144,10 +144,10 @@ footer p{
 
 .home.show {                        
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-columns: 2fr 1fr 1fr;
     grid-template-rows: 20% min-content auto;
     font-family: Inter,serif;
-    font-size: 15px;
+    font-size: 11px;
     border-radius: 10px;
     padding: 10px;
     background-image: url(./lukas-blazek-mcSDtbWXUZU-unsplash.jpg);
