@@ -150,7 +150,7 @@ footer p{
     font-size: 11px;
     border-radius: 10px;
     padding: 10px;
-    background-image: url(./lukas-blazek-mcSDtbWXUZU-unsplash.jpg);
+    background-image: url(./assets/lukas-blazek-mcSDtbWXUZU-unsplash.jpg);
     background-size: cover;
 }
 
@@ -588,7 +588,7 @@ footer p{
     grid-template-rows:min-content min-content auto;
     align-content: flex-end;
     font-family: Inter, sans-serif;
-    background-image: url(./melinda-gimpel-5Ne6mMQtIdo-unsplash.jpg);
+    background-image: url(./assets/melinda-gimpel-5Ne6mMQtIdo-unsplash.jpg);
     background-size:contain;
     border-radius: 20px;
     color: black;
